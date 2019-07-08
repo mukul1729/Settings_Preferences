@@ -1,0 +1,8 @@
+def div(num):
+    if num % 5 == 0:
+        return True
+    else
+       return False:
+xyz = [i for i in input_list if div(i)]
+print(xyz) 
+
